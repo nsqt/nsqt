@@ -1,3 +1,3 @@
-[+] Python Programmer
-[+] Network Pentester
-[+] Linux User
+- [+] Python Programmer
+- [+] Network Pentester
+- [+] Linux User
